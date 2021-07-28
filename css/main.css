@@ -95,7 +95,6 @@ a {
 .back-to-position.to-right {
   transform: translateX(-150px);
 }
-
 .back-to-position.to-left {
 
   transform: translateX(150px);
